@@ -1,0 +1,22 @@
+{
+  "test": {
+    "version": "1.0.0-rc.1",
+    "build": 511,
+    "published": "2026-11-20T17:45:21.2727822+01:00",
+    "url": "https://github.com/SummitPlusPlus/kayli/releases/download/kayli-v1.0.0-rc.1/Kayli_1.0.0-rc.1-portable.zip",
+    "sha256": "4e22e1772c15f76913483610b965a0573be7250aa612b7b1fc820bdc9f73d6f0",
+    "size": 104237373,
+    "notes": {
+      "en": "initial release",
+      "de": "initial release"
+    }
+  },
+  "revokedLicenses": [],
+  "areaPackKeys": [],
+  "revokedAreaPackKeys": [],
+  "highestKeyId": "k-0006",
+  "signed": "2026-11-20T17:45:21.2727822+01:00",
+  "format": 1
+}
+--sig--
+vyvJIGQys9U2hNC1J2P45uPXZSzAdhh2OM7mpD5LRj/pacLJmI5rCOsK99V9Agaf3cyrY7TC+bNBl/7TOr6Klw==
