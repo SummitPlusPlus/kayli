@@ -1,19 +1,19 @@
 {
   "test": {
-    "version": "1.0.0-rc.12",
-    "build": 591,
-    "published": "2026-11-24T11:31:41.0645461+01:00",
-    "url": "https://github.com/SummitPlusPlus/kayli/releases/download/kayli-v1.0.0-rc.12/Kayli_1.0.0-rc.12-portable.zip",
-    "sha256": "32de8298be726b670241d8a42a276ebb71f327ca4b66ebd84b99ff2636d0ecf9",
-    "size": 104366225,
+    "version": "1.0.0-rc.13",
+    "build": 597,
+    "published": "2026-11-24T15:19:54.405189+01:00",
+    "url": "https://github.com/SummitPlusPlus/kayli/releases/download/kayli-v1.0.0-rc.13/Kayli_1.0.0-rc.13-portable.zip",
+    "sha256": "9e4890e04b365dbec71f9c1d5b4712cd7c2183903f0fc16ef4e3eb33186e5a9a",
+    "size": 109852809,
     "notes": {}
   },
   "revokedLicenses": [],
   "areaPackKeys": [],
   "revokedAreaPackKeys": [],
   "highestKeyId": "k-0007",
-  "signed": "2026-11-24T11:31:41.0645461+01:00",
+  "signed": "2026-11-24T15:19:54.405189+01:00",
   "format": 1
 }
 --sig--
-jHK7w9HB0sxHu0JdW2pLYXPgDRkgfR37/8DK/uqXkIGudP6KmNwobgnhmBGxwUK3sFsj1Dyyp7zarxZHBVC4pg==
+FlgcGhQM/BPrL+03eozUdBA3q0nn74BJSSN/PtikgKjRGEUhFJijseoTCpxU98pRUh73llK2THgvO8N8DebAhA==
